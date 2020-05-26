@@ -1,0 +1,18 @@
+<links>
+    <link>http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml</link>
+    <link>http://www.buzzfeed.com/sports.xml</link>
+    <link>http://feeds.foxnews.com/foxnews/sports</link>
+    <link>http://feeds.sbnation.com/rss/streams</link>
+    <link>http://sports.espn.go.com/espn/rss/news</link>
+    <link>http://www.latimes.com/sports/rss2.0.xml</link>
+    <link>http://www.cbssports.com/partners/feeds/rss/home_news</link>
+    <link>http://www.si.com/rss/si_topstories.rss</link>
+    <link>http://feeds.gawker.com/deadspin/full</link>
+    <link>https://sports.yahoo.com/top/rss.xml</link>
+    <link>http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=sports1</link>
+    <link>http://feeds.washingtonpost.com/rss/rss_early-lead</link>
+    <link>http://www.theguardian.com/sport/us-sport/rss</link>
+    <link>http://hosted.ap.org/lineups/SPORTSHEADS.rss?SITE=AP&SECTION=HOME</link>
+</links>
+
+<link>([\d\w:/.\n\&?=-])+<\/link>
